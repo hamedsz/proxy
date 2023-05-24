@@ -1,4 +1,4 @@
 function FindProxyForURL(url, host)
 {
-     return "SOCKS proxy_host:proxy_port";
+     return "SOCKS 192.168.1.109:9999";
 }
